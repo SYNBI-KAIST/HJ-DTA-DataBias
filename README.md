@@ -25,4 +25,5 @@ This work was supported by the BK-21 program through National Research Foundatio
 
 ## License
 The code in this repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
 The data in the `data` folder is licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. See the [LICENSE](./LICENSE) file for more details.

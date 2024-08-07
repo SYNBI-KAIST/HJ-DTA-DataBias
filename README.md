@@ -7,6 +7,12 @@ We introduce the Binding Affinity Similarity Explorer (BASE) web service, which 
 
 ![Figure9](https://github.com/user-attachments/assets/18336449-4f46-4ffd-9164-b80008e92d5a)
 
+## Installation Instructions
+To run the project locally, clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/HJ-DTA-DataBias.git
+   cd HJ-DTA-DataBias
+
 ## Journal & Contact Info
 [Korea Advanced Institute Science and Technology(KAIST)](https://kaist.ac.kr/en/)
 

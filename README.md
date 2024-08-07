@@ -17,8 +17,6 @@ To run the project locally, clone the repository:
 ## Journal & Contact Info
 [Korea Advanced Institute Science and Technology(KAIST)](https://kaist.ac.kr/en/)
 
-[Department of Bio and Brain Engineering(BBE)](https://bioeng.kaist.ac.kr/)
-
 [Synergistic Bioinformatics Laboratory](https://synbi.kaist.ac.kr/)
 
 Hyojin Son*, Sechan Lee, Jaeuk Kim, Haangik Park, Myeong-Ha Hwang and Gwan-Su Yi†

@@ -12,6 +12,7 @@ To run the project locally, clone the repository:
    ```bash
    git clone https://github.com/yourusername/HJ-DTA-DataBias.git
    cd HJ-DTA-DataBias
+   ```
 
 ## Journal & Contact Info
 [Korea Advanced Institute Science and Technology(KAIST)](https://kaist.ac.kr/en/)

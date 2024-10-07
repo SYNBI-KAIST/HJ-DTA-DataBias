@@ -3,6 +3,8 @@
 ## Overview
 Deep learning-based drug-target affinity (DTA) prediction models have shown high performance but suffer from dataset bias. Our study investigates this bias using comprehensive databases and demonstrates that compound-protein binding affinity can often be predicted using compound features alone, due to high similarity among target proteins. We developed bias-reduced datasets by decreasing protein similarity between training and test sets, which improved model performance and balanced feature importance.
 
+![figure](https://github.com/user-attachments/assets/96bf2278-4e52-4f4d-bf3d-f2b97484a0b2)
+
 We introduce the Binding Affinity Similarity Explorer (BASE) web service, which offers bias-reduced datasets and prediction results to aid in the development of generalized and robust DTA models. BASE is freely available at https://synbi2024.kaist.ac.kr/base.
 
 ![Figure9](https://github.com/user-attachments/assets/18336449-4f46-4ffd-9164-b80008e92d5a)

@@ -18,6 +18,7 @@ To run the project locally, clone the repository:
 
 ## Journal & Contact Info
 [BASE: a web service for providing compound-protein binding affinity prediction datasets with reduced similarity bias](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05968-3).
+
 Hyojin Son*, Sechan Lee, Jaeuk Kim, Haangik Park, Myeong-Ha Hwang and Gwan-Su Yi†
 - Journal: BMC Bioinformatics
 - First Author(*): hyojin0912@kaist.ac.kr
